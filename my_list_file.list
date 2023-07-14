@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/drive_ppa_repo.gpg] https://AlexJLaroche.github.io/drive_ppa_repo ./
