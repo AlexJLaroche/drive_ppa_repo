@@ -11,3 +11,20 @@ SHA256: b12453567d2f1425a99b11b20b5dc381b200b3ead5b67e7138976b6c7f223e70
 Homepage: http://example.com
 Description: A program that prints hello
 
+Package: python3-drive
+Source: drive
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Alex <alexandre.laroche@drivehockey.com>
+Installed-Size: 21
+Depends: python3:any
+Filename: ./python3-drive_1.0.0-1_all.deb
+Size: 2654
+MD5sum: bbe59175151d3ed7e4f23ad839681112
+SHA1: 67c4bf279c8766e3475c6738e0353249784ddfbd
+SHA256: 2bda5a7e39a68c7fb58bf8f9d0e3c7be69434c078db8bdc2c5b80d1d47cec8fc
+Section: python
+Priority: optional
+Description: Drive python package test
+ This is simply a test to see if the drive repo works for python files
+
