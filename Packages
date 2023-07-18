@@ -1,3 +1,17 @@
+Package: drive-ack
+Version: 1.0.1-1
+Architecture: all
+Maintainer: Alexandre Laroche <alexandre.laroche@drivehockey.com>
+Installed-Size: 28
+Filename: ./drive-ack_1.0.1-1_all.deb
+Size: 3638
+MD5sum: a7b8d002cf7dc138812df3abe977f5c4
+SHA1: 8da07ab344c89253dbad16249f0ef481e30a5ba8
+SHA256: 45146097c509e58ecad995010b4426ff48e8a5e6a76c7553c437c48262337e64
+Section: python
+Priority: optional
+Description: Ensures that Downlink and Uplink Messages are properly Acknowledged
+
 Package: hello-world
 Version: 0.0.2
 Architecture: amd64
