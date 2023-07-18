@@ -1,13 +1,13 @@
 Package: drive-ack
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: all
 Maintainer: Alexandre Laroche <alexandre.laroche@drivehockey.com>
 Installed-Size: 28
-Filename: ./drive-ack_1.0.1-1_all.deb
-Size: 3638
-MD5sum: a7b8d002cf7dc138812df3abe977f5c4
-SHA1: 8da07ab344c89253dbad16249f0ef481e30a5ba8
-SHA256: 45146097c509e58ecad995010b4426ff48e8a5e6a76c7553c437c48262337e64
+Filename: ./drive-ack_1.0.2-1_all.deb
+Size: 3698
+MD5sum: 9033ed80e35d43e9eeeda1f0b2ec858a
+SHA1: 68eab7814c19198d2f772107d3826acbd4c873dc
+SHA256: 2220ed2f66d90d16fd1a7e76113ebfff79a4e0f6f893e86fe1c4a18597678e71
 Section: python
 Priority: optional
 Description: Ensures that Downlink and Uplink Messages are properly Acknowledged
